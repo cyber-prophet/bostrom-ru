@@ -17,7 +17,7 @@
 
 ## Bostrom
 
-[Cyber](https://cyb.ai) - проект суперинтеллекта на основе blockchain (cosmos-sdk), консенсус-протокола Tendermint и механизма контент-адресации (с текущей имплементацией IPFS).
+[Bostrom](https://cyb.ai) - проект суперинтеллекта на основе blockchain (cosmos-sdk), консенсус-протокола Tendermint и механизма контент-адресации (с текущей имплементацией IPFS).
 
 Bostrom - загрузочная сеть (bootloader) будущей сети blockchain Cyber.
 
