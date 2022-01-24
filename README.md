@@ -6,6 +6,14 @@
 
 Автор данного мануала не является разработчиком и не входит в команду проекта. Изложенное ниже является личным пониманием проекта и не отражает позицию его команды.
 
+### Ссылки на официальные документы по Cyber от команды проекта
+
+1. [Cyber whitepaper (english)](https://github.com/cybercongress/cyber/blob/master/computing-the-knowledge/computing-the-knowledge.md)
+2. [Github репозиторий с описанием технической спецификации проекта (english)](https://github.com/cybercongress/cyber)
+3. [Модель экономики проекта (english)](https://github.com/cybercongress/cybernomics/blob/main/bostrom/README.md)
+
+### Подписка на обновления пособия
+
 Подписаться на обновления данного учебного пособия можно:
 
 1. На github https://github.com/learn-cyber-superintelligence/bostrom-ru
