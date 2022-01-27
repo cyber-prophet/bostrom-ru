@@ -23,6 +23,7 @@
 
 1. [Дашборд по Bostrom на данных нод, поддерживаемых командой проекта](https://cybernode.ai/grafana/d/cyber_stats/computer?orgId=2)
 2. [Дашборд по Bostrom от валидатора Bro-n-Bro на данных ноды и внешних данных](https://monitor.bronbro.io/d/bostrom-stats/bostrom-stats?orgId=2&from=now-30d&to=now)
+3. [Интро в cyber от Citizen Cosmos](https://github.com/citizen-cosmos/Staking/blob/main/Cyber.md)
 
 ### Приглашение соавторов
 
