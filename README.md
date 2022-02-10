@@ -25,6 +25,13 @@
 2. [Дашборд по Bostrom от валидатора Bro-n-Bro на данных ноды и внешних данных](https://monitor.bronbro.io/d/bostrom-stats/bostrom-stats?orgId=2&from=now-30d&to=now)
 3. [Интро в cyber от Citizen Cosmos](https://github.com/citizen-cosmos/Staking/blob/main/Cyber.md)
 
+### Подписаться в Sixth Sense
+
+* [Mastercyb - основатель cyber](https://cyb.ai/network/bostrom/contract/bostrom1d8754xqa9245pctlfcyv8eah468neqzn3a0y0t) 
+* [Cyberhead - основатель cyber](https://cyb.ai/network/bostrom/contract/bostrom1nfmvw8x37w00p3geuu8lrt3vt5kadxa5xd9us7) 
+* [Максим Уваров - автор “Учим cyber”](https://cyb.ai/network/bostrom/contract/bostrom1nngr5aj3gcvphlhnvtqth8k3sl4asq3n6r76m8)  
+
+
 ### Приглашение соавторов
 
 Буду рад, если знающие люди будут помогать дополнением документа. Делайте ваши pull request.
