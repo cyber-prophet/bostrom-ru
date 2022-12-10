@@ -27,10 +27,10 @@
 
 ### Подписаться в Sixth Sense
 
+* [Максим Уваров - автор “Учим cyber”](https://cyb.ai/network/bostrom/contract/bostrom1nngr5aj3gcvphlhnvtqth8k3sl4asq3n6r76m8)  
 * [Mastercyb - основатель cyber](https://cyb.ai/network/bostrom/contract/bostrom1d8754xqa9245pctlfcyv8eah468neqzn3a0y0t) 
 * [Cyberhead - основатель cyber](https://cyb.ai/network/bostrom/contract/bostrom1nfmvw8x37w00p3geuu8lrt3vt5kadxa5xd9us7) 
-* [Максим Уваров - автор “Учим cyber”](https://cyb.ai/network/bostrom/contract/bostrom1nngr5aj3gcvphlhnvtqth8k3sl4asq3n6r76m8)  
-
+* [El_Nivvo](https://cyb.ai/network/bostrom/contract/bostrom1ay267fakkrgfy9lf2m7wsj8uez2dgylhtkdf9k)
 
 ### Приглашение соавторов
 
